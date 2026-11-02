@@ -1,0 +1,6 @@
+{
+  "name": "Fluxo Adapti",
+  "description": "Planejador de estudos inteligente, adaptativo e anti-culpa com gestão de energia cognitiva, modo foco profundo e revisões espaçadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
